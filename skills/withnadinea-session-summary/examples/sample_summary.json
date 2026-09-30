@@ -1,0 +1,51 @@
+{
+ "client_first_name": "ريم",
+ "date": "22 Sep 2026",
+ "zone": "future",
+ "focus_skills": [6, 4],
+ "languages": ["ar", "en"],
+ "sections": {
+  "ar": {
+   "where_you_stand": {"title": "عايشة بالمستقبل", "body": "كل أحد بتخططي الأسبوع كله، وأول تغيير بتسميه فشل. فبتضلي عم تلحّقي بكرا، وبتغيبي عن اليوم. إنتِ مش مقصرة، ومش ناقصك تنظيم. في نمط قديم عم يقيسك بالخطة."},
+   "uncovered": [
+    "جملة بنتك عالعشا ما طلعت من راسك من الخميس.",
+    "القائمة شغالة براسك بالسيارة، بالحديقة، وعالتلفون.",
+    "الخطة بتتغير، بتحسي بفشل، بتلحّقي، بتغيبي، بتحسي بذنب، وبتخططي أقوى. هاي دايرة.",
+    "الكلمة اللي ضربتك: الإذن."
+   ],
+   "recommendations": [
+    {"text": "كل ما تتغير الخطة: إيدك عالطاولة، نفس، وقولي «الخطة تغيرت، أنا لأ».", "skill": 6},
+    {"text": "بعدها اسألي سؤال واحد بس: شو أهم شي هلأ؟", "skill": 6},
+    {"text": "عالعشا: التلفون بغرفة تانية، والقائمة على ورقة جنب الباب.", "skill": 4}
+   ],
+   "this_week": "كل مرة تتغير فيها الخطة هالأسبوع، اكتبي سطر: شو تغير، وشو عملتي بعدها. لاحظي إذا رجعتي تلحّقي أو وقفتي.",
+   "journal_prompts": [
+    "شو بيصير جواتي لما الخطة تتغير؟",
+    "إيمتى آخر مرة كنت فعلاً بالغرفة مع ولادي؟",
+    "شو يعني إني أعطي حالي الإذن هالأسبوع؟"
+   ],
+   "next_step": "بالجلسة الجاية بنشوف شو صار لما تغيرت الخطة، مش إذا مشيت. الحجز من الرابط بالبايو @withnadinea"
+  },
+  "en": {
+   "where_you_stand": {"title": "Living in the future", "body": "Every Sunday you plan the whole week, and the first change feels like failure. So you keep chasing tomorrow and miss today. You're not falling short, and you don't need more organisation. An old pattern is grading you by the plan."},
+   "uncovered": [
+    "Your daughter's sentence at dinner has stayed with you since Thursday.",
+    "The list keeps running in the car, at the park, on the phone.",
+    "Plan changes, failure, catching up, absence, guilt, a stronger plan. It's a loop.",
+    "The word that landed: permission."
+   ],
+   "recommendations": [
+    {"text": "Whenever the plan changes: hand on the table, one breath, and say \"the plan changed, I didn't.\"", "skill": 6},
+    {"text": "Then ask one question only: what matters most right now?", "skill": 6},
+    {"text": "At dinner: phone in another room, the list on paper by the door.", "skill": 4}
+   ],
+   "this_week": "Each time the plan changes this week, write one line: what changed, and what you did next. Notice whether you chased or paused.",
+   "journal_prompts": [
+    "What happens inside me when the plan changes?",
+    "When was I last truly in the room with my children?",
+    "What would giving myself permission look like this week?"
+   ],
+   "next_step": "Next session we'll look at what happened when the plan changed, not whether it held. Book from the link in bio @withnadinea"
+  }
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "date": "2026-09-22",
+ "name": "sample_2026_09_22",
+ "safety": {
+  "consent": true,
+  "care_flag": false,
+  "composite": true
+ },
+ "reels": [
+  {
+   "angle": "جسمها معهم، وهي مش معهم",
+   "perspective": "Client",
+   "hook_type": "Story",
+   "hook": "ابنها قلها جملة من أربع كلمات…",
+   "script": "ابنها قلها جملة من أربع كلمات: ماما إنتِ مش سامعتيني.\nكانت قاعدة معه عالعشا، بس براسها عم ترتب بكرا.\nوبعدين انتبهت إنو هاد مش بس عالعشا.\nبالسيارة، بالحديقة، حتى وهي بتحكي مع صاحبتها.\nدايماً في قائمة شغالة براسها.\nوبالليل ذنب، وخطة أقوى لبكرا.\nهي مش مقصرة. هي بس مش هون.\nوالحضور مش وقت زيادة. هو إنك تكوني بالغرفة، ولو لعشر دقايق.",
+   "cta": "book",
+   "takeaway_en": "Present in body, absent in mind.",
+   "on_screen": [
+    "ماما إنتِ مش سامعتيني",
+    "جسمي معهم… وأنا لأ",
+    "كوني هون"
+   ],
+   "zone": "present",
+   "cover": {
+    "line1": "كانت قاعدة معهم عالعشا…",
+    "line2": "بس هي مش هون"
+   }
+  },
+  {
+   "angle": "جسمها معهم، وهي مش معهم",
+   "perspective": "Client",
+   "hook_type": "Emotional",
+   "hook": "إذا بتقعدي مع ولادك وعقلك ببكرا…",
+   "script": "إذا بتقعدي مع ولادك وعقلك ببكرا، إنتِ مش لحالك.\nكانت عندي وحدة منظمة لدرجة إنو كل ساعة بأسبوعها إلها شي.\nومع هيك كانت تحس إنها دايماً متأخرة.\nكانت فاكرة الحل إنها تنظم أكتر.\nبس اللي كان ناقص مش التنظيم.\nكان ناقص إنو يكون للقائمة مكان، وللعشا مكان.\nالتلفون بغرفة تانية. القائمة على ورقة جنب الباب.\nمش لأنو القائمة غلط. لأنو العشا مش وقتها.",
+   "cta": "method",
+   "takeaway_en": "The list has a place, and dinner isn't it.",
+   "on_screen": [
+    "عقلك ببكرا؟",
+    "القائمة إلها مكان",
+    "العشا مش وقتها"
+   ],
+   "zone": "present"
+  },
+  {
+   "angle": "الخطة تغيرت، مش إنتِ",
+   "perspective": "Client × method",
+   "hook_type": "Pattern",
+   "hook": "في دايرة بتتكرر كل أسبوع وما حدا بيشوفها.",
+   "script": "في دايرة بتتكرر كل أسبوع وما حدا بيشوفها.\nيوم الأحد بتعملي خطة للأسبوع كله.\nيوم الإثنين بيصير شي مش بالخطة.\nبتحسي إنك فشلتي، فبتحاولي تلحّقي.\nبتغيبي عن اللي حواليكي، بتحسي بذنب،\nوبترجعي يوم الأحد تعملي خطة أقوى من اللي قبلها.\nهاي مش حوادث منفصلة. هاي دايرة، وكل لفة فيها بتتعبك أكتر.\nوأول ما تشوفيها، بتقدري توقفيها بجملة وحدة:\nالخطة تغيرت، أنا لأ.",
+   "cta": "method",
+   "takeaway_en": "The plan changed. You didn't fail.",
+   "on_screen": [
+    "خطة ← تغيير ← فشل ← ذنب",
+    "هاي دايرة",
+    "الخطة تغيرت، أنا لأ"
+   ],
+   "zone": "future",
+   "cover": {
+    "line1": "كل أحد خطة جديدة… وكل إثنين فشل",
+    "line2": "الخطة تغيرت، أنا لأ"
+   }
+  },
+  {
+   "angle": "الخطة تغيرت، مش إنتِ",
+   "perspective": "Client × method",
+   "hook_type": "Contrarian",
+   "hook": "ما بدي ياكي تبطلي تخططي.",
+   "script": "ما بدي ياكي تبطلي تخططي.\nالتخطيط منيح. المشكلة بمكان تاني.\nالمشكلة لما الخطة تصير هي المقياس الوحيد إذا إنتِ منيحة أو لأ.\nوقتها كل تغيير صغير بصير فشل كبير.\nبالطريقة اللي بشتغل فيها، هاي المهارة ستة من ستة: مرونة ذكية.\nلما الخطة تتغير، حطي إيدك على الطاولة، خدي نفس،\nواسألي سؤال واحد: شو أهم شي هلأ؟\nهاد السؤال بيرجعك لإلك.",
+   "cta": "book",
+   "takeaway_en": "Plan, but don't let the plan grade you.",
+   "on_screen": [
+    "خططي… بس",
+    "المهارة ٦ من ٦",
+    "شو أهم شي هلأ؟"
+   ],
+   "zone": "future"
+  },
+  {
+   "angle": "الإذن",
+   "perspective": "Coach philosophy",
+   "hook_type": "Contrarian",
+   "hook": "التنظيم مش هو اللي ناقصك.",
+   "script": "التنظيم مش هو اللي ناقصك.\nبشوف هالشي كتير مع ستات شايلين كل شي.\nولاد، شغل، أهل، بيت.\nوكل ما تتعب وحدة منهم، بتفكر إنو الحل خطة أحسن، تطبيق أحسن، صحوة أبكر.\nبس هي أصلاً منظمة كتير، يمكن أكتر من اللازم.\nاللي ناقصها شي أبسط وأصعب:\nالإذن إنو الأسبوع ما يمشي متل الخطة،\nوتضل هي منيحة.",
+   "cta": "method",
+   "takeaway_en": "What's missing isn't organisation. It's permission.",
+   "on_screen": [
+    "مش التنظيم",
+    "الإذن"
+   ],
+   "zone": "neutral",
+   "cover": {
+    "line1": "التنظيم مش هو اللي ناقصك",
+    "line2": "الإذن"
+   }
+  },
+  {
+   "angle": "الإذن",
+   "perspective": "Coach philosophy",
+   "hook_type": "Curiosity",
+   "hook": "في كلمة وحدة بتغيّر كيف بتعيشي أسبوعك.",
+   "script": "في كلمة وحدة بتغيّر كيف بتعيشي أسبوعك.\nمش خطة جديدة، ولا روتين صباحي، ولا تطبيق.\nكلمة: إذن.\nالإذن إنو يوم الإثنين يخرب وما يخرب الأسبوع كله.\nالإذن إنك تقعدي عالعشا والقائمة مش خالصة.\nالإذن إنك تكوني منظمة وموجودة بنفس الوقت.\nمش لازم تختاري بين الاتنين.\nوهاد مش استسلام. هاد إنك ترجعي تكوني إنتِ المقياس، مش الخطة.",
+   "cta": "book",
+   "takeaway_en": "You don't have to choose between organised and present.",
+   "on_screen": [
+    "كلمة وحدة",
+    "إذن",
+    "منظمة وموجودة"
+   ],
+   "zone": "neutral"
+  }
+ ],
+ "carousels": [
+  {
+   "title": "Not disorganised, measured by the plan",
+   "perspective": "Client",
+   "caption": "كانت فاكرة إنها مش منظمة كفاية.\nطلعت منظمة كتير، بس الخطة صارت هي اللي بتحكم عليها.\nShe wasn't disorganised. The plan had become her grade.\nاعرفي أكتر عن الطريقة — الرابط بالبايو\n#مع_نادين #المرونة #أمهات #تنظيم_الوقت #withnadinea #mindfulmom #coaching",
+   "image_prompts": [
+    "slide 1: Editorial photograph, a weekly paper planner half covered by a child's drawing on a kitchen table, evening light, top-down 35mm, warm muted palette of cream, terracotta, dusty blue and mustard, film grain, negative space on the top for text, no text, 4:5"
+   ],
+   "spec": {
+    "carousel": "belief_shift",
+    "zone": "future",
+    "lang": "ar",
+    "slides": [
+     {
+      "layout": "cover",
+      "title": "مش إنها مش منظمة",
+      "sub": "إنو الخطة صارت هي اللي بتحكم عليها.",
+      "hl": "بتحكم",
+      "kicker": [
+       "THE FUTURE",
+       "المستقبل"
+      ]
+     },
+     {
+      "layout": "compare",
+      "a": "لازم أنظم أكتر.",
+      "b": "هي أصلاً منظمة كتير."
+     },
+     {
+      "layout": "compare",
+      "a": "الإثنين خرب، يعني فشلت.",
+      "b": "الخطة تغيرت. هي لأ."
+     },
+     {
+      "layout": "statement",
+      "text": "خططي. بس لا تخلي الخطة تقرر إذا إنتِ منيحة.",
+      "hl": "تقرر",
+      "en": "Plan. Just don't let the plan grade you."
+     },
+     {
+      "layout": "cta",
+      "cta_kind": "method",
+      "closer": "هاي المهارة ٦ من ٦."
+     }
+    ]
+   }
+  },
+  {
+   "title": "If the plan runs you",
+   "perspective": "Coach",
+   "caption": "إذا شفتي حالك بثلاثة من هدول، في شي أهم من الخطة عم يصير.\nIf you see yourself in three of these, it isn't a planning problem.\nاحجزي جلسة معي — الرابط بالبايو\n#مع_نادين #الحاضر #أمهات_عاملات #توازن #withnadinea #presence #coaching",
+   "image_prompts": [],
+   "spec": {
+    "carousel": "diagnostic",
+    "zone": "present",
+    "lang": "ar",
+    "slides": [
+     {
+      "layout": "cover",
+      "title": "إذا هاد عم يصير معك",
+      "sub": "مش مشكلة تنظيم.",
+      "hl": "تنظيم"
+     },
+     {
+      "layout": "checklist",
+      "title": "بتلاحظي إنك…",
+      "items": [
+       "قاعدة عالعشا وعقلك ببكرا",
+       "بتخططي الأسبوع كله يوم الأحد",
+       "أول تغيير بتحسيه فشل",
+       "بالليل ذنب، والصبح خطة أقوى"
+      ]
+     },
+     {
+      "layout": "statement",
+      "text": "جسمك معهم، بس إنتِ مش معهم.",
+      "hl": "مش معهم"
+     },
+     {
+      "layout": "skill",
+      "skill": 4,
+      "body": "مش تأمل ولا شي روحاني. بس إنك تكوني بالغرفة، ولو لعشر دقايق."
+     },
+     {
+      "layout": "cta",
+      "cta_kind": "book",
+      "closer": "هاي المهارة ٤ من ٦."
+     }
+    ]
+   }
+  },
+  {
+   "title": "Permission",
+   "perspective": "Coach philosophy",
+   "caption": "بشوف هالشي كتير مع ستات شايلين كل شي.\nالحل مش خطة أحسن.\nWhat's missing isn't organisation. It's permission.\nاعرفي أكتر عن الطريقة — الرابط بالبايو\n#مع_نادين #دفتر_نادين #المرونة_الذكية #ستات #withnadinea #permission #coaching",
+   "image_prompts": [],
+   "spec": {
+    "carousel": "notebook",
+    "zone": "present",
+    "lang": "ar",
+    "slides": [
+     {
+      "layout": "statement",
+      "theme": "cream",
+      "text": "التنظيم مش هو اللي ناقصك.",
+      "hl": "ناقصك"
+     },
+     {
+      "layout": "notebook",
+      "paragraphs": [
+       "بشوف هالشي كتير مع ستات شايلين كل شي: ولاد، شغل، أهل، بيت.",
+       "كل ما تتعبي، بتفكري إنو الحل خطة أحسن، تطبيق أحسن، صحوة أبكر."
+      ],
+      "hl": "خطة أحسن"
+     },
+     {
+      "layout": "notebook",
+      "paragraphs": [
+       "بس اللي ناقص شي أبسط وأصعب: الإذن.",
+       "الإذن إنو الأسبوع ما يمشي متل الخطة، وتضلي إنتِ منيحة. إنك تكوني منظمة وموجودة، بدون ما تختاري."
+      ],
+      "hl": "الإذن"
+     },
+     {
+      "layout": "cta",
+      "cta_kind": "method"
+     }
+    ]
+   }
+  }
+ ]
+}
