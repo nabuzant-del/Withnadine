@@ -1,0 +1,19 @@
+{
+ "type": "carousel",
+ "carousel": "quote_drop",
+ "zone": "past",
+ "lang": "ar",
+ "name": "quote_drop",
+ "slides": [
+  {
+   "layout": "quote",
+   "text": "إنتِ مش مكسورة…\nفي نمط قديم عم يشتغل.",
+   "en": "You're not broken. An old pattern is running."
+  },
+  {
+   "layout": "quote",
+   "text": "الخطة تغيّرت.\nإنتِ ما فشلتي.",
+   "en": "The plan changed. You didn't fail."
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "type": "carousel",
+ "carousel": "micro_case",
+ "zone": "future",
+ "lang": "ar",
+ "name": "micro_case",
+ "slides": [
+  {
+   "layout": "cover",
+   "title": "قرار عمره سنتين",
+   "sub": "ما كان ناقصها معلومات. كان ناقصها صوتها.",
+   "kicker": [
+    "THE FUTURE",
+    "المستقبل"
+   ]
+  },
+  {
+   "layout": "compare",
+   "a": "لازم أفكر أكتر قبل ما أقرّر.",
+   "b": "كانت عارفة الجواب. كانت خايفة من ردّة فعل أهلها."
+  },
+  {
+   "layout": "statement",
+   "text": "مش كل تردّد هو نقص معرفة. أحياناً هو صوت حدا تاني.",
+   "hl": "صوت حدا تاني"
+  },
+  {
+   "layout": "cta",
+   "cta_kind": "book",
+   "closer": "هاي المهارة ٥ من ٦."
+  }
+ ]
+}

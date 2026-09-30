@@ -1,0 +1,57 @@
+{
+ "type": "carousel",
+ "carousel": "zone_map",
+ "zone": "neutral",
+ "lang": "ar",
+ "name": "zone_map",
+ "slides": [
+  {
+   "layout": "cover",
+   "title": "وين إنتِ واقفة؟",
+   "sub": "كل وحدة فينا عايشة بزمن واحد أكتر من غيره.",
+   "zone": "neutral"
+  },
+  {
+   "layout": "zonemap",
+   "title": "تلات أزمنة",
+   "zones": {
+    "past": "بتعيدي المشاهد",
+    "present": "هون بس مش هون",
+    "future": "خايفة من بكرا"
+   },
+   "focus": "past"
+  },
+  {
+   "layout": "text",
+   "zone": "past",
+   "theme": "past",
+   "title": "الماضي",
+   "paragraphs": [
+    "بتعيدي نفس الحديث بعد أسبوع. بتحاسبي حالك على شي صار من سنين."
+   ]
+  },
+  {
+   "layout": "text",
+   "zone": "present",
+   "theme": "present",
+   "title": "الحاضر",
+   "paragraphs": [
+    "جسمك موجود، وراسك بمكان تاني. اليوم بيخلص وما بتتذكري منه شي."
+   ]
+  },
+  {
+   "layout": "text",
+   "zone": "future",
+   "theme": "future",
+   "title": "المستقبل",
+   "paragraphs": [
+    "بتخططي كتير وما بتقرّري. أو بتقرّري من الخوف، مش من اللي بدك ياه."
+   ]
+  },
+  {
+   "layout": "cta",
+   "cta_kind": "method",
+   "closer": "الجلسة الأولى بتوريكِ وين واقفة."
+  }
+ ]
+}

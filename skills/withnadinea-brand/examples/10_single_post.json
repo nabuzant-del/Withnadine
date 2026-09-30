@@ -1,0 +1,14 @@
+{
+ "type": "post",
+ "zone": "future",
+ "lang": "ar",
+ "name": "single_post",
+ "slides": [
+  {
+   "layout": "statement",
+   "text": "قرّري من اللي بدك ياه، مش من اللي خايفة منه.",
+   "hl": "بدك ياه",
+   "en": "Decide from what you want, not from what you fear."
+  }
+ ]
+}

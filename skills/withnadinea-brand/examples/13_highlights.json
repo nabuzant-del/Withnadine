@@ -1,0 +1,30 @@
+{
+ "type": "highlights",
+ "name": "highlight",
+ "items": [
+  {
+   "zone": "past",
+   "label": "الماضي"
+  },
+  {
+   "zone": "present",
+   "label": "الحاضر"
+  },
+  {
+   "zone": "future",
+   "label": "المستقبل"
+  },
+  {
+   "skill": 1,
+   "label": "مهارة ١"
+  },
+  {
+   "skill": 2,
+   "label": "مهارة ٢"
+  },
+  {
+   "skill": 3,
+   "label": "مهارة ٣"
+  }
+ ]
+}

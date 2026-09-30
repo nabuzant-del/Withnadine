@@ -1,0 +1,37 @@
+{
+ "type": "carousel",
+ "carousel": "belief_shift",
+ "zone": "present",
+ "lang": "ar",
+ "name": "belief_shift",
+ "slides": [
+  {
+   "layout": "cover",
+   "title": "مش تعبانة. غايبة.",
+   "sub": "في فرق كبير بين الإرهاق وإنك مش موجودة بحياتك.",
+   "kicker": [
+    "THE PRESENT",
+    "الحاضر"
+   ]
+  },
+  {
+   "layout": "compare",
+   "a": "بدي إجازة وبرتاح.",
+   "b": "رجعت من الإجازة ولسا مش هون."
+  },
+  {
+   "layout": "compare",
+   "a": "المشكلة إنو ما في وقت.",
+   "b": "الوقت موجود. الحضور مش موجود."
+  },
+  {
+   "layout": "statement",
+   "text": "الحضور مش وقت إضافي. هو إنك تكوني بالغرفة.",
+   "hl": "بالغرفة"
+  },
+  {
+   "layout": "cta",
+   "cta_kind": "book"
+  }
+ ]
+}

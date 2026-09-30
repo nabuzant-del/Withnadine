@@ -1,0 +1,81 @@
+{
+ "type": "client_summary",
+ "name": "client_summary",
+ "zone": "past",
+ "client_first_name": "ريم",
+ "date": "22 Sep 2026",
+ "focus_skills": [
+  1,
+  2
+ ],
+ "languages": [
+  "ar",
+  "en"
+ ],
+ "sections": {
+  "ar": {
+   "where_you_stand": {
+    "title": "عايشة بالماضي",
+    "body": "رجعتِ أكتر من مرة لنفس المشهد: نفس الجملة، نفس ردّة الفعل. هاد مش ضعف. هاد نمط قديم عم يقرّر عنك."
+   },
+   "uncovered": [
+    "كل نقاش كبير بلّش بجملة صغيرة ما إلها علاقة بالموضوع.",
+    "ردّة فعلك كانت دايماً وحدة: سكوت، وبعدين انفجار.",
+    "لما سمّيناه نمط، قلتي: أول مرة بشوفها هيك."
+   ],
+   "recommendations": [
+    {
+     "text": "لما ترجعي للمشهد، اكتبي سطرين: شو صار فعلاً، وشو القصة اللي حكيتيها لحالك.",
+     "skill": 1
+    },
+    {
+     "text": "عدّي كم مرة بالأسبوع بتصير نفس ردّة الفعل. الرقم أهم من التفاصيل.",
+     "skill": 2
+    },
+    {
+     "text": "قبل النقاش الجاي، خدي نفَس وقولي بقلبك: هاد نمط، مش أنا.",
+     "skill": 2
+    }
+   ],
+   "this_week": "كل ليلة، دقيقتين: سطر عن حادثة اليوم، وسطر عن النمط اللي شفتيه وراها.",
+   "journal_prompts": [
+    "شو الجملة اللي بتفجّرني كل مرة؟",
+    "إيمتى أول مرة حسيت هالإحساس؟",
+    "شو كنت بدي يصير بدل الخناقة؟"
+   ],
+   "next_step": "لما تكوني جاهزة للزمن الجاي، الرابط بالبايو @withnadinea"
+  },
+  "en": {
+   "where_you_stand": {
+    "title": "Living in the past",
+    "body": "You kept returning to the same scene: the same sentence, the same reaction. That isn't weakness. It's an old pattern deciding for you."
+   },
+   "uncovered": [
+    "Every big argument started with a small, unrelated sentence.",
+    "Your reaction was always the same: silence, then an explosion.",
+    "When we called it a pattern, you said: first time I see it this way."
+   ],
+   "recommendations": [
+    {
+     "text": "When you go back to the scene, write two lines: what actually happened, and the story you told yourself.",
+     "skill": 1
+    },
+    {
+     "text": "Count how many times a week the same reaction happens. The number matters more than the details.",
+     "skill": 2
+    },
+    {
+     "text": "Before the next argument, breathe and say inside: this is a pattern, not me.",
+     "skill": 2
+    }
+   ],
+   "this_week": "Every night, two minutes: one line about today's incident, one line about the pattern behind it.",
+   "journal_prompts": [
+    "Which sentence sets me off every time?",
+    "When did I first feel this?",
+    "What did I want to happen instead of the fight?"
+   ],
+   "next_step": "When you're ready for the next time zone, the link is in bio @withnadinea"
+  }
+ }
+}
